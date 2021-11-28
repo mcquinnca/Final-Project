@@ -1,0 +1,35 @@
+//Question 1 begins on line 6, so 6-11 is question 1, 12-17 is question 2 and so on.
+//This means any question can be found by: Question number*6, possible answers are: Question# * 6 + 1(through 4), and the int corresponding to the correct answer will be: Question# * 6 + 5
+
+
+
+What is the tallest building in Cincinnati?
+Carew Tower
+PNC Tower
+Great American
+Great American Tower
+3
+What Year was Cincinnati settled?
+1819
+1785
+1788
+1803
+3
+What was Cincinnati Famous for in the early-mid 1900's?
+Pork
+Steak
+Football
+Corn
+1
+What is Cincinnati's Nickname
+Reds Place
+Queen City
+The San Antonio of the midwest
+Not Xavier
+2
+Which ice Cream place originated in Cincinnati?
+UDF
+Cold Stone Creamery
+Dipin Dots
+Graeters
+4
