@@ -1,35 +1,87 @@
-//Question 1 begins on line 6, so 6-11 is question 1, 12-17 is question 2 and so on.
-//This means any question can be found by: Question number*6, possible answers are: Question# * 6 + 1(through 4), and the int corresponding to the correct answer will be: Question# * 6 + 5
+//Question 1 begins on line 8, so 8-15 is question 1, 16-13 is question 2 and so on.
+//This means any question can be found by: Question number*8, possible answers are: Question# * 8 + 1(or 2, 3, 4), and the int corresponding to the correct answer will be: Question# * 8 + 5
+//key: Question, Answer 1, Answer 2, Answer 3, Answer 4, Correct Answer #, Points, Question Type
+
 
 
 
 What is the tallest building in Cincinnati?
 Carew Tower
 PNC Tower
-Great American
-Great American Tower
-3
+Great American Building
+McMicken Hall
+Great American Building
+10
+Cincinnati Facts
 What Year was Cincinnati settled?
 1819
 1785
 1788
 1803
-3
+1788
+15
+Cincinnati History
 What was Cincinnati Famous for in the early-mid 1900's?
 Pork
 Steak
 Football
 Corn
-1
-What is Cincinnati's Nickname
+Pork
+10
+Cincinnati History
+What is Cincinnati's Nickname?
 Reds Place
 Queen City
 The San Antonio of the midwest
 Not Xavier
-2
+Queen City
+10
+Cincinnati Facts
 Which ice Cream place originated in Cincinnati?
 UDF
 Cold Stone Creamery
 Dipin Dots
 Graeters
-4
+Graeters
+5
+Cincinnati History
+Who was Cincinnati named after?
+Lucius Cincinnatus
+John Cincinnati
+Atticus Cincinnatus
+Aurelius Cincinatius
+Lucius Cincinnatus
+10
+Cincinnati Facts
+When was the University of Cincinnati Founded?
+1780
+1863
+1850
+1819
+1819
+5
+Cincinnati History
+How many Championships have the Cincinnati Reds won?
+2
+3
+5
+8
+5
+10
+Cincinnati Sports
+Who is the current Quarterback of the Cincinnati Bengals?
+Andrew Luck
+Joe Burrow
+Joe Mixon
+Titus Wright
+Joe Burrow
+5
+Cincinnati Sports
+Who are the rivals of the Cincinnati Bengals?
+Detroit Lions
+Cleveland Browns
+Baltimore Ravens
+Pittsburgh Steelers
+Pittsburgh Steelers
+10
+Cincinnati Sports
