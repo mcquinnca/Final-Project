@@ -192,13 +192,12 @@ public class Game implements ActionListener {
       } else if (ae.getActionCommand().equals(questions.get(qNum).getAnswer4())) {
 
         if (questions.get(qNum).getCorrectAnswer() == 4) {
-          scoreCount += questions.get(qNum).getPoints();
           scoreCount = scoreCount + questions.get(qNum).getPoints();
           jlabCategory.setVisible(false);
           optionA.setVisible(false);
           optionB.setVisible(false);
           optionC.setVisible(false);
-          scoreCount += questions.get(qNum).getPoints();
+          optionD.setVisible(false);
           jlabScore.setText("Score: "+ scoreCount);
           optionCont.setVisible(true);
           
@@ -209,7 +208,7 @@ public class Game implements ActionListener {
           jlabCategory.setVisible(false);
           optionA.setVisible(false);
           optionB.setVisible(false);
-          optionC.setVisible(false);qNum +=1;
+          optionC.setVisible(false);
           optionD.setVisible(false);
           optionCont.setVisible(true);
           
@@ -241,9 +240,9 @@ public class Game implements ActionListener {
 
 
     }
-    //}
 
-    if (qNum == 4) {
+
+    if (qNum > 3) {
       jlabCategory.setVisible(false);
       optionA.setVisible(false);
       optionB.setVisible(false);
