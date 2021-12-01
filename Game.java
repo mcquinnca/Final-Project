@@ -87,7 +87,7 @@ public class Game implements ActionListener {
     optionCont.addActionListener(this);
 
     // setting up labels
-    jlabCategory = new JLabel(questions.get(qNum).getQuestionType());
+    jlabCategory = new JLabel("Category: "+questions.get(qNum).getQuestionType());
     jlabQuestion = new JLabel(questions.get(qNum).getQuestion());
     jlabQuestion.setFont(new Font("Helvetica Neue", Font.BOLD, 16));
     jlabScore = new JLabel("Score: " + scoreCount);
@@ -243,7 +243,7 @@ public class Game implements ActionListener {
     }
     //}
 
-    if (qNum > 3) {
+    if (qNum == 4) {
       jlabCategory.setVisible(false);
       optionA.setVisible(false);
       optionB.setVisible(false);
