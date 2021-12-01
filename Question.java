@@ -13,7 +13,7 @@ class Question {
   String answer2;
   String answer3;
   String answer4;
-  String correctAnswer;
+  int correctAnswer;
   int points;
   String questionType;
 
@@ -39,7 +39,7 @@ class Question {
       answer2 = reader.readLine();
       answer3 = reader.readLine();
       answer4 = reader.readLine();
-      correctAnswer = reader.readLine();
+      correctAnswer = Integer.parseInt(reader.readLine());
       points = Integer.parseInt(reader.readLine());
       questionType = reader.readLine();
       reader.close();
@@ -98,7 +98,7 @@ class Question {
    * 
    * @return the int which is the correct answer
    */
-  public String getCorrectAnswer() {
+  public int getCorrectAnswer() {
     return correctAnswer;
   }
 

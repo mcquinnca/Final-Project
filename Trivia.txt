@@ -10,7 +10,7 @@ Carew Tower
 PNC Tower
 Great American Building
 McMicken Hall
-Great American Building
+3
 10
 Cincinnati Facts
 What Year was Cincinnati settled?
@@ -18,7 +18,7 @@ What Year was Cincinnati settled?
 1785
 1788
 1803
-1788
+3
 15
 Cincinnati History
 What was Cincinnati Famous for in the early-mid 1900's?
@@ -26,7 +26,7 @@ Pork
 Steak
 Football
 Corn
-Pork
+1
 10
 Cincinnati History
 What is Cincinnati's Nickname?
@@ -34,7 +34,7 @@ Reds Place
 Queen City
 The San Antonio of the midwest
 Not Xavier
-Queen City
+2
 10
 Cincinnati Facts
 Which ice Cream place originated in Cincinnati?
@@ -42,7 +42,7 @@ UDF
 Cold Stone Creamery
 Dipin Dots
 Graeters
-Graeters
+4
 5
 Cincinnati History
 Who was Cincinnati named after?
@@ -50,7 +50,7 @@ Lucius Cincinnatus
 John Cincinnati
 Atticus Cincinnatus
 Aurelius Cincinatius
-Lucius Cincinnatus
+1
 10
 Cincinnati Facts
 When was the University of Cincinnati Founded?
@@ -58,7 +58,7 @@ When was the University of Cincinnati Founded?
 1863
 1850
 1819
-1819
+4
 5
 Cincinnati History
 How many Championships have the Cincinnati Reds won?
@@ -66,7 +66,7 @@ How many Championships have the Cincinnati Reds won?
 3
 5
 8
-5
+3
 10
 Cincinnati Sports
 Who is the current Quarterback of the Cincinnati Bengals?
@@ -74,7 +74,7 @@ Andrew Luck
 Joe Burrow
 Joe Mixon
 Titus Wright
-Joe Burrow
+2
 5
 Cincinnati Sports
 Who are the rivals of the Cincinnati Bengals?
@@ -82,6 +82,6 @@ Detroit Lions
 Cleveland Browns
 Baltimore Ravens
 Pittsburgh Steelers
-Pittsburgh Steelers
+4
 10
 Cincinnati Sports
